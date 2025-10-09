@@ -40,7 +40,7 @@ Sigue los siguientes tutoriales paso a paso para construir tu videojuego desde c
 
 ---
 
-### Práctica 1 – Creación del Mundo
+### Práctica 2 – Creación del Mundo
 
 ![Práctica 1](https://www.aprendegamemaker.com/wp-content/uploads/2018/10/Construct-3.png)
 
