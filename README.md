@@ -48,7 +48,7 @@ Sigue los siguientes tutoriales paso a paso para construir tu videojuego desde c
 Primera práctica enfocada en la configuración del entorno 2D en Unity, diseño del mapa y creación del mundo base del videojuego.
 
 - 📝 **Documento de la práctica:**  
-  [Ver en Google Docs](https://docs.google.com/document/d/1rxFbq3OY1Y0vAkCU0qtQVKKLyrfHL1V77vJtxse4SFE/edit?usp=sharing)
+  [Ver en Documento ](https://docs.google.com/document/d/1rxFbq3OY1Y0vAkCU0qtQVKKLyrfHL1V77vJtxse4SFE/edit?usp=sharing)
 
 - 🎥 **Video de demostración:**  
   [Ver en Google Drive](https://drive.google.com/file/d/1vfBDYBkkZpiBViELZycCTtJowY8NMAOE/view?usp=sharing)
