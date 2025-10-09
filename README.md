@@ -40,11 +40,17 @@ Sigue los siguientes tutoriales paso a paso para construir tu videojuego desde c
 
 ---
 
-## Prácticas
+### Práctica 1 – Creación del Mundo
 
-Cada práctica corresponde a una unidad temática del curso.  
-El objetivo es integrar gradualmente todos los sistemas del videojuego.
+![Práctica 1](https://www.aprendegamemaker.com/wp-content/uploads/2018/10/Construct-3.png)
 
-### Entrega
-Cada estudiante deberá subir su código fuente a **GitHub** en un solo repositorio con la siguiente estructura:
+**Descripción:**  
+Primera práctica enfocada en la configuración del entorno 2D en Unity, diseño del mapa y creación del mundo base del videojuego.
+
+- 📝 **Documento de la práctica:**  
+  [Ver en Google Docs](https://docs.google.com/document/d/1rxFbq3OY1Y0vAkCU0qtQVKKLyrfHL1V77vJtxse4SFE/edit?usp=sharing)
+
+- 🎥 **Video de demostración:**  
+  [Ver en Google Drive](https://drive.google.com/file/d/1vfBDYBkkZpiBViELZycCTtJowY8NMAOE/view?usp=sharing)
+
 
