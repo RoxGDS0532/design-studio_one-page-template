@@ -17,28 +17,28 @@ Incluye tutoriales, prácticas, documentación técnica y el producto final del 
 
 ---
 
-## 📘 Tutoriales
+## Tutoriales
 
-### 🧪 Tutorial 1 – Player Animations 2D (Primera Parte)
+### Tutorial 1 – Player Animations 2D (Primera Parte)
 Creación del sprite y animaciones principales:
 - player-walk-west  
 - player-walk-south  
 - player-walk-north  
 - player-idle  
 
-🔗 **Evidencias:**
-- 📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1fXD2Q009ZQc-nZXzHJfEpQodUxVGw7E9kqZKGq_nvic/edit?usp=sharing)
+**Evidencias:**
+- **Documento:** [Ver Documento](https://docs.google.com/document/d/1fXD2Q009ZQc-nZXzHJfEpQodUxVGw7E9kqZKGq_nvic/edit?usp=sharing)
 
 ---
 
-### 🧪 Tutorial 2 – Player Animations 2D (Segunda Parte)
+### Tutorial 2 – Player Animations 2D (Segunda Parte)
 Objetivos trabajados:
 - Uso de **Colliders** y **Rigidbody** (física)
 - Uso de **Sorting Layers**
 - Reutilización con **Prefabs**
 - Movimiento del player con animación correspondiente
 
-🔗 **Evidencias:**
+**Evidencias:**
 - 📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1v1WJEcJ7qgJ_d9icDvwMdNNO59c2nBhU/edit?usp=sharing)  
 - 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1kAqxT5luyEV1kpYSakEuOhUVfxcxp9_4/view?usp=sharing)
 
