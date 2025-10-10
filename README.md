@@ -103,4 +103,4 @@ Configuración del entorno 2D en Unity, diseño del mapa y creación del mundo b
 
 ---
 
-📌 *Este README forma parte del portafolio de desarrollo en Unity y aprendizaje de creación de videojuegos.*
+*Este README forma parte del portafolio de desarrollo en Unity y aprendizaje de creación de videojuegos.*
