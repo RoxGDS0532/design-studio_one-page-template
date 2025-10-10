@@ -2,13 +2,13 @@
 **Autor:** María Roxana Ortega Rentería
 
 ## Índice
-- [Unidad 1 – Introducción al Desarrollo](#unidad-1-introduccion-al-desarrollo)
-- [Unidad 2 – Programación y Tutoriales](#unidad-2-programacion-y-tutoriales)
-- [Unidad 3 – Publicación del Videojuego](#unidad-3-publicacion-del-videojuego)
+- [Unidad 1 - Introducción al Desarrollo](#unidad-1-introduccion-al-desarrollo)
+- [Unidad 2 - Programación y Tutoriales](#unidad-2-programacion-y-tutoriales)
+- [Unidad 3 - Publicación del Videojuego](#unidad-3-publicacion-del-videojuego)
 
 ---
 
-## Unidad 1 – Introducción al Desarrollo
+## Unidad 1 - Introducción al Desarrollo
 
 ### Misión 01 – El Portal del Jugador  
 *Objetivo:* Activar el perfil como aprendiz e iniciar el camino del desarrollo de videojuegos.
@@ -60,7 +60,7 @@
 
 ---
 
-## Unidad 2 – Programación y Tutoriales
+## Unidad 2 - Programación y Tutoriales
 
 ### Tutoriales
 
@@ -98,7 +98,7 @@ Configuración del entorno 2D en Unity, diseño del mapa y creación del mundo b
 
 ---
 
-## Unidad 3 – Publicación del Videojuego
+## Unidad 3 - Publicación del Videojuego
 *Próximamente...*
 
 ---
