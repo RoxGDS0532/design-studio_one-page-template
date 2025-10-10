@@ -10,27 +10,28 @@
 
 ## Unidad 1 – Introducción al Desarrollo
 
-### Misión 01 – El Portal del Jugador
-*Objetivo:* Activar el perfil como aprendiz e iniciar el recorrido en el desarrollo de videojuegos.
+### Misión 01 – El Portal del Jugador  
+*Objetivo:* Activar el perfil como aprendiz e iniciar el camino del desarrollo de videojuegos.
 
-#### Misión 1_1 – Explorador de la Industria
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_1 – Explorador de la Industria  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1mlzIgg2PR7yivxCtGfu_GhOF1ItB_0UV/edit?usp=sharing)
 
-#### Misión 1_2 – Arma tu PC Gamer Humana
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_2 – Arma tu PC Gamer Humana  
+📄 **Evidencia:** *(Documento no indicado aún)*
 
-#### Misión 1_4 – Clasificador de Jugadores
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_4 – Clasificador de Jugadores  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1Jxtxc4oiLOfXDUAW2qnfzgeWbgtRdSq-/edit?usp=sharing)
 
-#### Misión 1_5 – Gestor de Roles
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_5 – Gestor de Roles  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/16hz0L_W4oAA8UyusmLBt_M_iYKP7JlSL/edit)
 
-#### Misión 1_6 – Arquitecto de Fundamentos
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_6 – Arquitecto de Fundamentos  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/16S0gJJwFmtSS1Ap-4jSyTEQ7bzyKYJ5HI73jF06elFc/edit?usp=sharing)
 
-#### Misión 1_7 – Evaluador del Nivel 1
-📄 **Documento:** [Ver Documento](#)
+#### Misión 1_7 – Evaluador del Nivel 1  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1UIKcpn-VewKZsVBLj_rXjh0Yy8IpeTMgCfcw2YeOu9c/edit?usp=sharing)
 
+---
 ---
 ### Misión 02 – La Forja del Mundo Jugable  
 *Objetivo:* Dominar narrativa, arte y diseño visual en videojuegos.
