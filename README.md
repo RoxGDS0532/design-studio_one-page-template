@@ -30,7 +30,6 @@
 📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1UIKcpn-VewKZsVBLj_rXjh0Yy8IpeTMgCfcw2YeOu9c/edit?usp=sharing)
 
 ---
----
 ### Misión 02 – La Forja del Mundo Jugable  
 *Objetivo:* Dominar narrativa, arte y diseño visual en videojuegos.
 
