@@ -17,26 +17,30 @@ Incluye tutoriales, prácticas, documentación técnica y el producto final del 
 
 ---
 
-## Tutoriales
+## 📘 Tutoriales
 
-Sigue los siguientes tutoriales paso a paso para construir tu videojuego desde cero:
+### 🧪 Tutorial 1 – Player Animations 2D (Primera Parte)
+Creación del sprite y animaciones principales:
+- player-walk-west  
+- player-walk-south  
+- player-walk-north  
+- player-idle  
 
-| Nº | Tema | Descripción |
-|----|------|-------------|
-| 01 | **Creación del mundo** | Configuración inicial del proyecto en Unity y diseño del entorno. |
-| 02 | **Movimiento y salto** | Implementación del control del personaje (Input System / Rigidbody2D). |
-| 03 | **Recoger frutas** | Creación de objetos recolectables y actualización de puntaje. |
-| 04 | **Animaciones** | Uso del Animator Controller para vincular animaciones al jugador. |
-| 05 | **Enemigos** | Programación básica de enemigos con detección de colisión y daño. |
-| 06 | **Niveles** | Diseño de múltiples niveles y carga de escenas. |
-| 07 | **CheckPoint** | Implementación de puntos de guardado y reaparición. |
-| 08 | **Nuevos personajes** | Añadir personajes jugables con diferentes habilidades. |
-| 09 | **Menú Principal** | Creación del menú principal con botones de navegación. |
-| 10 | **Controles para móvil** | Incorporación de controles táctiles para Android/iOS. |
-| 11 | **Score** | Sistema de puntuación y UI de resultados. |
-| 12 | **Vidas** | Sistema de vidas, reinicio del nivel y Game Over. |
+🔗 **Evidencias:**
+- 📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1fXD2Q009ZQc-nZXzHJfEpQodUxVGw7E9kqZKGq_nvic/edit?usp=sharing)
 
-**Sitio oficial del curso:** [Acceder al sitio del videojuego](#)
+---
+
+### 🧪 Tutorial 2 – Player Animations 2D (Segunda Parte)
+Objetivos trabajados:
+- Uso de **Colliders** y **Rigidbody** (física)
+- Uso de **Sorting Layers**
+- Reutilización con **Prefabs**
+- Movimiento del player con animación correspondiente
+
+🔗 **Evidencias:**
+- 📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1v1WJEcJ7qgJ_d9icDvwMdNNO59c2nBhU/edit?usp=sharing)  
+- 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1kAqxT5luyEV1kpYSakEuOhUVfxcxp9_4/view?usp=sharing)
 
 ---
 
