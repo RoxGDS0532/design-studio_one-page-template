@@ -16,9 +16,6 @@
 #### Misión 1_1 – Explorador de la Industria  
 📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1mlzIgg2PR7yivxCtGfu_GhOF1ItB_0UV/edit?usp=sharing)
 
-#### Misión 1_2 – Arma tu PC Gamer Humana  
-📄 **Evidencia:** *(Documento no indicado aún)*
-
 #### Misión 1_4 – Clasificador de Jugadores  
 📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1Jxtxc4oiLOfXDUAW2qnfzgeWbgtRdSq-/edit?usp=sharing)
 
