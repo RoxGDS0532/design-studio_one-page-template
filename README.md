@@ -2,10 +2,9 @@
 **Autor:** María Roxana Ortega Rentería
 
 ## Índice
-- [Unidad 1 – Introducción al Desarrollo](#unidad-1--introduccion-al-desarrollo)
-- [Unidad 2 – Programación y Tutoriales](#unidad-2--programacion-y-tutoriales)
-- [Unidad 3 – Publicación del Videojuego](#unidad-3--publicacion-del-videojuego)
-
+- [Unidad 1 – Introducción al Desarrollo](#unidad-1-introduccion-al-desarrollo)
+- [Unidad 2 – Programación y Tutoriales](#unidad-2-programacion-y-tutoriales)
+- [Unidad 3 – Publicación del Videojuego](#unidad-3-publicacion-del-videojuego)
 
 ---
 
