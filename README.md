@@ -43,7 +43,7 @@ Objetivos trabajados:
 - 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1kAqxT5luyEV1kpYSakEuOhUVfxcxp9_4/view?usp=sharing)
 
 ---
-
+## Prácticas
 ### Práctica 2 – Creación del Mundo
 
 ![Práctica 1](https://www.aprendegamemaker.com/wp-content/uploads/2018/10/Construct-3.png)
