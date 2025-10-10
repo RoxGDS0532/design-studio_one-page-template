@@ -1,41 +1,71 @@
 # Creación de Videojuegos
 **Autor:** María Roxana Ortega Rentería
 
-## 📚 Índice
-- [Unidad 1 – Introducción al Desarrollo](#unidad-1--introducción-al-desarrollo)
-- [Unidad 2 – Programación y Tutoriales](#unidad-2--programación-y-tutoriales)
-- [Unidad 3 – Publicación del Videojuego](#unidad-3--publicación-del-videojuego)
+## Índice
+- [Unidad 1 – Introducción al Desarrollo](#unidad-1-introducción-al-desarrollo)
+- [Unidad 2 – Programación y Tutoriales](#unidad-2-programación-y-tutoriales)
+- [Unidad 3 – Publicación del Videojuego](#unidad-3-publicación-del-videojuego)
 
 ---
 
-## 🧭 Unidad 1 – Introducción al Desarrollo
+## Unidad 1 – Introducción al Desarrollo
 
-### 🎯 Misión 01 – El Portal del Jugador
+### Misión 01 – El Portal del Jugador
 *Objetivo:* Activar el perfil como aprendiz e iniciar el recorrido en el desarrollo de videojuegos.
 
-#### 🗂 Misión 1_1 – Explorador de la Industria
+#### Misión 1_1 – Explorador de la Industria
 📄 **Documento:** [Ver Documento](#)
 
-#### 🖥 Misión 1_2 – Arma tu PC Gamer Humana
+#### Misión 1_2 – Arma tu PC Gamer Humana
 📄 **Documento:** [Ver Documento](#)
 
-#### 🎮 Misión 1_4 – Clasificador de Jugadores
+#### Misión 1_4 – Clasificador de Jugadores
 📄 **Documento:** [Ver Documento](#)
 
-#### 🎭 Misión 1_5 – Gestor de Roles
+#### Misión 1_5 – Gestor de Roles
 📄 **Documento:** [Ver Documento](#)
 
-#### 🧱 Misión 1_6 – Arquitecto de Fundamentos
+#### Misión 1_6 – Arquitecto de Fundamentos
 📄 **Documento:** [Ver Documento](#)
 
-#### ✅ Misión 1_7 – Evaluador del Nivel 1
+#### Misión 1_7 – Evaluador del Nivel 1
 📄 **Documento:** [Ver Documento](#)
 
 ---
+### Misión 02 – La Forja del Mundo Jugable  
+*Objetivo:* Dominar narrativa, arte y diseño visual en videojuegos.
 
-## 💻 Unidad 2 – Programación y Tutoriales
+#### Misión 2_1 – Explora el Proceso de Creación  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1jf5CQl35X3DFLkiWc0kCMM4Be0EqowA4/view?usp=sharing)
 
-### 🛠 Tutoriales
+#### Misión 2_2 – Domina la Preproducción  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1KMgIEbfAEqvMLYvsgZvPnuffo0OKtTFZ/edit?usp=sharing)
+
+#### Misión 2_3 – Conoce los Tipos de Animación  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1HMCxIXpMogPxOps5Z38UPhXMt6kY9BXK/edit?usp=sharing)
+
+#### Misión 2_4 – Diseño Arte Conceptual  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1wbu6-Qj14jVD4IJQ1DWHo1Qt0i1H7rVI/view?usp=sharing)
+
+#### Misión 2_5 – Redacta el Guion del Juego  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1pvjFPZqUXT4EnwtbnnDikBiP_5WIEb-bHlPrUhTewf8/edit?usp=sharing)
+
+#### Misión 2_6 – Construye tu Storyboard  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/189D1QmMwPdUBCq3Lv80-Z8mj6UbP2qRd/view?usp=sharing)
+
+#### Misión 2_7 – Evaluación del Nivel  
+📄 **Evidencia:** [Ver Documento](https://docs.google.com/document/d/1dtFl59m3ey_ryMQ5xTa0kP4Szqo4Z1F7DtJacFk9dTg/edit?usp=sharing)
+
+---
+
+### Misión 03 – El Consejo de Zenda: Crisis en la Industria  
+*Objetivo:* Analizar problemas, dilemas éticos y cambios en la industria del videojuego.  
+
+---
+
+## Unidad 2 – Programación y Tutoriales
+
+### Tutoriales
 
 #### Tutorial 1 – Player Animations 2D (Primera Parte)
 Creación del sprite y animaciones principales:
@@ -60,7 +90,7 @@ Objetivos trabajados:
 
 ---
 
-### 🧪 Prácticas
+### Prácticas
 
 #### Práctica 2 – Creación del Mundo
 **Descripción:**  
@@ -71,7 +101,7 @@ Configuración del entorno 2D en Unity, diseño del mapa y creación del mundo b
 
 ---
 
-## 🚀 Unidad 3 – Publicación del Videojuego
+## Unidad 3 – Publicación del Videojuego
 *Próximamente...*
 
 ---
