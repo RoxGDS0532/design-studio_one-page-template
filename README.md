@@ -7,8 +7,8 @@ Incluye tutoriales, prácticas, documentación técnica y el producto final del 
 
 ## Índice
 
-1. [Tutoriales](#-tutoriales)
-2. [Prácticas](#-prácticas)
+1. [Tutoriales](#tutoriales)
+2. [Prácticas](#prácticas)
 3. [Documentación del Videojuego](#-documentación-del-videojuego)
 4. [Estructura del Proyecto Unity](#-estructura-del-proyecto-unity)
 5. [Sitio del Proyecto](#-sitio-del-proyecto)
