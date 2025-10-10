@@ -97,6 +97,15 @@ Configuración del entorno 2D en Unity, diseño del mapa y creación del mundo b
 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1vfBDYBkkZpiBViELZycCTtJowY8NMAOE/view?usp=sharing)
 
 ---
+#### Práctica 3 – Creación del Menu
+**Descripción:**  
+Se crea dos menú principal y otro de opciones con sus correspoendientes botones 
+
+📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1z-HM0Exk1oC3Dkc_Islejk5QlPvBzbhOpgF2j60tOAI/edit?usp=sharing)  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1h1Iqo1sOntMJywkuswsQ-C1ro-grN6E8/view?usp=sharing)
+
+
+---
 
 ## Unidad 3 - Publicación del Videojuego
 *Próximamente...*
