@@ -86,6 +86,16 @@ Objetivos trabajados:
 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1kAqxT5luyEV1kpYSakEuOhUVfxcxp9_4/view?usp=sharing)
 
 ---
+#### Tutorial 3 – Construyendo el mundo (Tercera Parte)
+Objetivos trabajados:
+- Usaremosla vista Tile Palette para dibujar nuestro entorno.
+- Crearemosmapas detiles o tiles maps qué son arreglos de sprites e imágenes para crear el entorno
+- Usaremoselcomponente Cinemachine para seguir al jugador.
+
+📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1s1XHSZBL0EsGwBVv1YMuUlMMWfJJlGkP41geSvzBEEk/edit?usp=sharing)  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1qAcqHWR9dlghBSmlneY6hKmASRahgGUz/view?usp=sharing)
+
+---
 
 ### Prácticas
 
