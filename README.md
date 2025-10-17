@@ -96,6 +96,16 @@ Objetivos trabajados:
 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1qAcqHWR9dlghBSmlneY6hKmASRahgGUz/view?usp=sharing)
 
 ---
+#### Tutorial 4 –  Ensamblando las partes (Cuarta Parte)
+Objetivos trabajados:
+- Construir la estructura de clases de C# utilizada para el jugador, los enemigos y cualquier otro personajes que puedan aparecer en el juego.
+- Crearalgunas cosas prefabricadas que el jugador puede recoger, incluidas monedas y potenciadores.
+- Aprender aespecificar colisiones de objetos qué interesan a nuestra lógica de juego.
+
+📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1hODMBfRq4pRu2K9UlgfLf1uE3Q2E1Y9NrBCM3ioP8fs/edit?usp=sharing)  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1ePoo7Ds6YtX5QlKlmdXKgfEg4hpqE0p6/view?usp=sharing)
+
+---
 
 ### Prácticas
 
