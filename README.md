@@ -106,6 +106,15 @@ Objetivos trabajados:
 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1ePoo7Ds6YtX5QlKlmdXKgfEg4hpqE0p6/view?usp=sharing)
 
 ---
+#### Tutorial 5 –  Barra de Vida (Quinta Parte)
+Objetivos trabajados:
+- Construir una barra de salud para conocer Hit Points del jugador. 
+- Conoceremos componentes como Canvas y componentes UI.
+
+📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1itjbECMGkdiby5dphVs-0XFT1_GMUeiiDOqalJQGyLM/edit?usp=sharing)  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1dSbtsQtIfIyu8tpgHHbJGeMnsnRlkOnE/view?usp=sharing)
+
+---
 
 ### Prácticas
 
