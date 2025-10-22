@@ -4,6 +4,8 @@
 ## Índice
 - [Unidad 1 - Introducción al Desarrollo](#unidad-1---introducción-al-desarrollo)
 - [Unidad 2 - Programación y Tutoriales](#unidad-2---programación-y-tutoriales)
+    - [Tutoriales](#tutoriales)
+    - [Prácticas](#prácticas)
 - [Unidad 3 - Publicación del Videojuego](#unidad-3---publicación-del-videojuego)
 
 ---
