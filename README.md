@@ -117,6 +117,13 @@ Objetivos trabajados:
 🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1dSbtsQtIfIyu8tpgHHbJGeMnsnRlkOnE/view?usp=sharing)
 
 ---
+#### Tutorial 6 –  Inteligencia Artificial (Sexta Parte)
+
+📄 **Documento:** [Ver Documento](https://docs.google.com/document/d/1zs_QSJzFofajEMWeOH6LnA7u5KE7jh3jq2F-VKq4Dmw/edit?usp=sharing)  
+🎥 **Video:** [Ver Video](https://drive.google.com/file/d/1cbSgckD5wWxw8AHl4Dmj9hMG2q34SOuT/view?usp=sharing)
+
+---
+
 
 ### Prácticas
 
