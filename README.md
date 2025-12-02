@@ -149,7 +149,7 @@ Se crea dos menú principal y otro de opciones con sus correspoendientes botones
 ![Imagen de WhatsApp 2025-10-17 a las 18 26 52_1135d783](https://github.com/user-attachments/assets/6747062e-bd4f-418b-8aea-c9fdab2385dd)
 
 ## Unidad 3 - Publicación del Videojuego
-*Próximamente...*
+**Despliegue Windows:**  
 
 ---
 
