@@ -154,7 +154,7 @@ Se crea dos menú principal y otro de opciones con sus correspoendientes botones
 
 #### Despliegue Windows
 
-**Descarga nuestra version para Windows:** [Sombras del Recuerdo](https://docs.google.com/document/d/1z-HM0Exk1oC3Dkc_Islejk5QlPvBzbhOpgF2j60tOAI/edit?usp=sharing)  
+**Descarga nuestra version para Windows:** [Sombras del Recuerdo](https://drive.google.com/file/d/1xMtIIU-5bukMgoO6vNAlmc1oZcz7sVBg/view?usp=sharing)  
 
 #### Despliegue Web
 
