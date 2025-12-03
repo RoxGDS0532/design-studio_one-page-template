@@ -149,7 +149,21 @@ Se crea dos menú principal y otro de opciones con sus correspoendientes botones
 ![Imagen de WhatsApp 2025-10-17 a las 18 26 52_1135d783](https://github.com/user-attachments/assets/6747062e-bd4f-418b-8aea-c9fdab2385dd)
 
 ## Unidad 3 - Publicación del Videojuego
-**Despliegue Windows:**  
+
+### Sombras del Recuerdo
+
+#### Despliegue Windows
+
+**Descarga nuestra version para Windows:** [Sombras del Recuerdo](https://docs.google.com/document/d/1z-HM0Exk1oC3Dkc_Islejk5QlPvBzbhOpgF2j60tOAI/edit?usp=sharing)  
+
+#### Despliegue Web
+
+**Disfrutalo de forma Web:** [Sombras del Recuerdo](https://roxanaort.itch.io/sombras-del-recuerdo1)  
+
+#### Despliegue Android
+**Disfrutalo desde tu celular movil:** [Sombras del Recuerdo](https://drive.google.com/file/d/16Ejx6LtAoCtru_rT8oq8xT7GndQzBLR5/view?usp=sharing)  
+
+#### Video
 
 ---
 
